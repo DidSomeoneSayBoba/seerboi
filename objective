@@ -1,0 +1,8 @@
+take screenshot, send to (llm? something) for analysis
+pref siri
+siri -> run shell script -> python3? 
+get current documents folder, when it changes, take the image and send it into clipgpt captioning
+then what?
+if there's a problem, do it?
+pokedex?
+make it and think abt it later
